@@ -1,0 +1,2 @@
+ErrorDocument 404 /projects/notfound.php
+ErrorDocument 500 /projects/500.php
